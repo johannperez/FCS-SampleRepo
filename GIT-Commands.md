@@ -21,3 +21,7 @@ Confirma los cambios que se agregaron con `git add` y les pone la descripción i
 `git log`
 
 Muestra el historico de commits en la rama actual.
+
+`git push`
+
+Publica los cambios
