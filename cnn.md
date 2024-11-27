@@ -1,3 +1,3 @@
 # CNN
 
-This is the introduction to the Convolutional neural networks
+Esta es la introduccion a redes convolucionals
